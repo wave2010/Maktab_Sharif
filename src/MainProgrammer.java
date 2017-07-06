@@ -11,8 +11,6 @@ public class MainProgrammer {
 
 		CLI cli= new CLI();
 		cli.CLIi();
-		System.out.println("khodaHafez");
-		
 		
 	
 	}

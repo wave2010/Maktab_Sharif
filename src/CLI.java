@@ -4,7 +4,7 @@ public class CLI {
 
 	public void CLIi() {
 		
-		
+		//salam for all boys
 		try {
 			Scanner scan = new Scanner(System.in);
 			while (true) {
